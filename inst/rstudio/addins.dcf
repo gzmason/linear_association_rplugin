@@ -1,0 +1,4 @@
+Name: Find Linear Association
+Description: For a specified dataframe, a target column and number n, print the top n feature columns that are most likely to have linear association to the target column. If n is not specified, it is 5 by default.
+Binding: runCurrentRscript
+Interactive: false
